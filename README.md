@@ -14,7 +14,7 @@
 
 # Test262
 ### Test262 Report
--  https://test262.report/
+-  https://test262.fyi
 
 ### Test262 Repository 
 -  https://github.com/tc39/test262
